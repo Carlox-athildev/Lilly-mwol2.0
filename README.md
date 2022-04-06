@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙍𝙐𝘿𝙃𝙍𝘼+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙋𝙍𝙄𝙉𝘾𝙀+𝙍𝙐𝘿𝙃;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=LILLY-MWOL+CODDED+BY;CALROX-SER+-+MASS-SER)](https://git.io/typing-svg)
 
  </a>
 </p>
