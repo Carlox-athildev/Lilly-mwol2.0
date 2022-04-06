@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/Carlox-ser-mass-ser">Carlox-ser-m
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Carlox-ser-mass-ser/Lilly-mwol2.0-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Rudhra-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Carlox-ser-mass-ser/Lilly-mwol2.0)
      </div>
