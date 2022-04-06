@@ -51,9 +51,13 @@ bash <(curl -L https://t.ly/tHxh)
 
 ----
 
-<h3 align="center">Contact Me:</h3>
+<h3 align="center">MASS SER:</h3>
 <p align="center">
-<a href="https://instagram.com/Carlox-ser-mass-ser" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
+<a href="https://instagram.com/mass.ff" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
+</p>
+<h3 align="center">CARLOX SER:</h3>
+<p align="center">
+<a href="https://instagram.com/_carlox._" target="blank"><img align="center" src="https://i.imgur.com/abRLc29.png" alt="kyrie.baran" height="80" width="160" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
