@@ -75,7 +75,7 @@ bash <(curl -L https://t.ly/tHxh)
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/QMAZ3UG.jpeg)](https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP)
+  [![join](https://i.imgur.com/QMAZ3UG.jpeg)](https://chat.whatsapp.com/IGZgPY5aklX1SvfU2eWLdK)
   <div align="center">
        
   </div>
